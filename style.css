@@ -1,0 +1,39 @@
+*{
+	margin:0;
+	padding:0;
+	}
+
+#first{
+	width:100%;
+	height:500px;
+	background-color:black;
+}
+#second{
+	width:100%;
+	height:100vh;
+	line-height: 100px; 
+	background-image: url('http://www.wallpapereast.com/static/images/eiffel-tower-wallpaper-18.jpg');
+	background-size: cover;
+	background-attachment:fixed;
+}
+
+h1{
+	font-size: 200px;
+	font-weight: bold;
+	font-family: 'Times' serif;
+	font-variant: normal;
+	font-style: italic;
+	color: moccasin;
+	text-align: center;
+	text-decoration: underline overline;
+	text-transform: capitalize;
+}
+#third{
+	width:100%;
+	height:500px;
+	background-color: powderblue;
+	background-image: url('http://moziru.com/images/ground-clipart-path-14.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment:scroll;
+}
